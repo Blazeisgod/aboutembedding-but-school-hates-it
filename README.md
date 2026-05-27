@@ -10,3 +10,5 @@ Note: This works against Securly, and supposedly Lightspeed Filter Agent.
 Oh, and please for the love of god, don't overshare this and get my domain blocked by these filters, I HATE trying to use vercel and replit, shit sucks.
 
 Made with love from Blazy (BlazeTheRaboot)
+
+Website: https://blazeisgod.github.io/aboutembedding-but-school-hates-it/embedder.html
