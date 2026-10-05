@@ -12,4 +12,4 @@ Made with love from Blazy (BlazeTheRaboot)
 Website: https://blazeisgod.github.io/aboutembedding-but-school-hates-it/embedder.html
 
 
-another note: don't get in trouble with this, teacher gonna be lookin at like "tf are you doin boy"
+note: patched as of the latest Securly version
